@@ -1,0 +1,11 @@
+D:\ex\1\starloge\c#\Food\Food\bin\Release\Food.exe.config
+D:\ex\1\starloge\c#\Food\Food\bin\Release\Food.exe
+D:\ex\1\starloge\c#\Food\Food\bin\Release\Food.pdb
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.FirstCustomControl.resources
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.Form1.resources
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.MySecondCustmControl.resources
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.Properties.Resources.resources
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.csproj.GenerateResource.cache
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.csproj.CoreCompileInputs.cache
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.exe
+D:\ex\1\starloge\c#\Food\Food\obj\Release\Food.pdb

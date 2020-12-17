@@ -1,0 +1,10 @@
+D:\ex\1\starloge\c#\designIdea\designIdea\bin\Release\designIdea.exe.config
+D:\ex\1\starloge\c#\designIdea\designIdea\bin\Release\designIdea.exe
+D:\ex\1\starloge\c#\designIdea\designIdea\bin\Release\designIdea.pdb
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.csprojAssemblyReference.cache
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.Form1.resources
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.Properties.Resources.resources
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.csproj.GenerateResource.cache
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.csproj.CoreCompileInputs.cache
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.exe
+D:\ex\1\starloge\c#\designIdea\designIdea\obj\Release\designIdea.pdb
