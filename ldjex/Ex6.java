@@ -30,10 +30,10 @@ public class Ex6 {
 				System.out.println("0이외의 숫자를 입력하세요");
 				continue;
 			}
+			s.close();
 			break;
 		}
-		s.close();
-	}
+			}
 		
 }	
 
